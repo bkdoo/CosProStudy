@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96f185de-6a20-4c62-95ae-d2d2c8bf9178" name="Changes" comment="20220816&#10;Stack과 Queue를 활용한 연속된 숫자 제거 문제 풀이" />
+    <list default="true" id="96f185de-6a20-4c62-95ae-d2d2c8bf9178" name="Changes" comment="20220816&#10;Stack과 Queue를 활용한 연속된 숫자 제거 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepOne/bruteForceSearch/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660657741930</updated>
-      <workItem from="1660657743849" duration="2611000" />
+      <workItem from="1660657743849" duration="3530000" />
     </task>
     <task id="LOCAL-00001" summary="20220816&#10;Stack과 Queue를 활용한 연속된 숫자 제거 문제 풀이">
       <created>1660659707316</created>
@@ -61,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660659707317</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20220816&#10;Stack과 Queue를 활용한 연속된 숫자 제거 문제 풀이">
+      <created>1660660581757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660660581757</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20220816&#10;Stack과 Queue를 활용한 연속된 숫자 제거 문제 풀이">
+      <created>1660660590529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660660590529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
